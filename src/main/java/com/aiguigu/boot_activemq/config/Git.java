@@ -9,5 +9,6 @@ import java.sql.SQLOutput;
 public class Git {
     public static void main(String[] args) {
         System.out.println("test git");
+        System.out.println("模拟开发人员提交");
     }
 }
